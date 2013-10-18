@@ -7,7 +7,7 @@ Trausti Geir Jónasson
 </ol>
 ## 1. Linux uppsetning
 
-(Linux Ubuntu 12.04 LTS already installed using "Dual-Boot" method, see attached photos.) 
+(Linux Ubuntu 12.04 LTS already installed using 'Dual-Boot' method, see attached photos.) 
 
 ![Ubuntu on Dual Boot](https://raw.github.com/trausti13/INTOmarkdown/master/IMG_0003.JPG "Ubuntu on Dual Boot")
 Ubuntu on Dual Boot
@@ -39,6 +39,6 @@ Like everything, beginning to use Git was a bit of a sluggish process in which t
 </ol>
 ## 5. Unnið með Git (2. hluti)
 
-Markdown is very user-friendly and convenient to carry out projects and assignments such as this. As document-processing goes, Markdown is very easy to use, assuming the user has a touch of programming experience, and, as John Gruber stated on "Daring Fireball", readability is emphasized above all else.
+Markdown is very user-friendly and convenient to carry out projects and assignments such as this. As document-processing goes, Markdown is very easy to use, assuming the user has a touch of programming experience, and, as John Gruber stated on 'Daring Fireball', "readability is emphasized above all else".
 
 Posting pictures on a Markdown document was a bit tricky, as it was only by the helfpful assistance of a fellow classmate on Facebook that I discovered the proper procedure. The correct location of the images (on the hard drive and on GitHub) coupled with the "git add" command was not clarified anywhere else that I knew of, but, then again, I went to Facebook first before seeing if Google could help. It was a small bump on an otherwise very smooth road.
