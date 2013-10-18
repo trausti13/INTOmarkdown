@@ -6,13 +6,13 @@ Trausti Geir Jónasson
 
 (Linux Ubuntu already installed using "Dual-Boot" method, see attached photos.) 
 
-![Ubuntu on Dual Boot](/home/tgj/INTOmarkdown/IMG_0003.JPG)
+![Ubuntu on Dual Boot](https://raw.github.com/trausti13/INTOmarkdown/master/IMG_0003.JPG)
 
-![Ubuntu on Dual Boot](/home/tgj/INTOmarkdown/IMG_0004.JPG)
+![Ubuntu on Dual Boot](https://raw.github.com/trausti13/INTOmarkdown/master/IMG_0004.JPG)
 
-![Login Screen](/home/tgj/INTOmarkdown/IMG_0006)
+![Login Screen](https://raw.github.com/trausti13/INTOmarkdown/master/IMG_0006)
 
-![Ubuntu Environment](/home/tgj/INTOmarkdown/IMG_0002)
+![Ubuntu Environment](https://raw.github.com/trausti13/INTOmarkdown/master/IMG_0002)
 
 ## 2. Uppsetning á vim && git
 
