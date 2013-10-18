@@ -6,10 +6,13 @@ Trausti Geir Jónasson
 
 (Linux Ubuntu already installed using "Dual-Boot" method, see attached photos.) 
 
-![Ubuntu on Dual Boot](/home/tgj/Desktop/IMG_0003.JPG)
-![Ubuntu on Dual Boot](/home/tgj/Desktop/IMG_0004.JPG)
-![Login Screen](/home/tgj/Desktop/IMG_0006)
-![Ubuntu Environment](/home/tgj/Desktop/IMG_0002)
+![Ubuntu on Dual Boot](/home/tgj/INTOmarkdown/IMG_0003.JPG)
+
+![Ubuntu on Dual Boot](/home/tgj/INTOmarkdown/IMG_0004.JPG)
+
+![Login Screen](/home/tgj/INTOmarkdown/IMG_0006)
+
+![Ubuntu Environment](/home/tgj/INTOmarkdown/IMG_0002)
 
 ## 2. Uppsetning á vim && git
 
@@ -20,7 +23,8 @@ Simply type in the "sudo apt-get install" commands for every program and the ins
 
 Like everything, beginning to use Git was a bit of a sluggish process in which trial and error played a key role. Eventually things became clear and tutorials and other instructions for the SSH key and Vim were of crucial importance. As things progressed, it became clear how useful and brilliant "forking" is when it comes to sharing and contributing to code for various software; it's like Google Docs mixed with C++ and Linux. I believe that with more practice this would become an ideal tool with which aspiring programmers, like myself, could easily contribute, track and share their code.
 
-[Markdown Document:] (https://github.com/trausti13/INTOmarkdown.git "Click here")
+[Markdown Document] (https://github.com/trausti13/INTOmarkdown.git "Click here")
+
 ## 4. Uppsettur hugbúnaður
 
 <ol>
