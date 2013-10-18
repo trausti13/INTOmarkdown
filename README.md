@@ -7,12 +7,13 @@ Trausti Geir Jónasson
 (Linux Ubuntu 12.04 LTS already installed using "Dual-Boot" method, see attached photos.) 
 
 ![Ubuntu on Dual Boot](https://raw.github.com/trausti13/INTOmarkdown/master/IMG_0003.JPG "Ubuntu on Dual Boot")
-
+Ubuntu on Dual Boot
 ![Ubuntu on Dual Boot](https://raw.github.com/trausti13/INTOmarkdown/master/IMG_0004.JPG "Ubuntu on Dual Boot")
-
+Ubuntu selected on Dual Boot
 ![Login Screen](https://raw.github.com/trausti13/INTOmarkdown/master/IMG_0006.JPG "Login Screen")
-
+Login Screen
 ![Ubuntu Environment](https://raw.github.com/trausti13/INTOmarkdown/master/IMG_0002.JPG "Ubuntu Environment")
+Ubuntu Desktop Environment
 
 ## 2. Uppsetning á vim && git
 
